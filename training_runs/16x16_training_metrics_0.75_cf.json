@@ -1,0 +1,2202 @@
+[
+    {
+        "epoch": 1,
+        "train_reward": 0,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 1.005301833152771,
+            "agent_1": 0.9814195036888123
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 0.11261330544948578,
+            "agent_1": 0.151382178068161
+        }
+    },
+    {
+        "epoch": 2,
+        "train_reward": 0,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.9637181758880615,
+            "agent_1": 0.9626768231391907
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 0.10505848377943039,
+            "agent_1": 0.13972344994544983
+        }
+    },
+    {
+        "epoch": 3,
+        "train_reward": 0.6328,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.5464
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": -0.1894899159669876,
+            "agent_1": 0.9261325597763062
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 0.040138233453035355,
+            "agent_1": 0.12404356896877289
+        }
+    },
+    {
+        "epoch": 4,
+        "train_reward": 0,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.9387662410736084,
+            "agent_1": 0.9185274839401245
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 0.09439016878604889,
+            "agent_1": 0.1192822977900505
+        }
+    },
+    {
+        "epoch": 5,
+        "train_reward": 0.6166,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.9115036129951477,
+            "agent_1": 0.9029810428619385
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 0.08293252438306808,
+            "agent_1": 0.11211186647415161
+        }
+    },
+    {
+        "epoch": 6,
+        "train_reward": 0,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.8845546245574951,
+            "agent_1": 0.8451505303382874
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 0.07741653174161911,
+            "agent_1": 0.09012286365032196
+        }
+    },
+    {
+        "epoch": 7,
+        "train_reward": 0,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.6868000000000001,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.8841906189918518,
+            "agent_1": -0.28001630306243896
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 0.07770463079214096,
+            "agent_1": 0.022008389234542847
+        }
+    },
+    {
+        "epoch": 8,
+        "train_reward": 0.4222,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.821948766708374,
+            "agent_1": 0.8379024863243103
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 0.05789274722337723,
+            "agent_1": 0.08694829046726227
+        }
+    },
+    {
+        "epoch": 9,
+        "train_reward": 0,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.3214
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.8193342685699463,
+            "agent_1": 0.7683531641960144
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 0.05887896567583084,
+            "agent_1": 0.06885715574026108
+        }
+    },
+    {
+        "epoch": 10,
+        "train_reward": 0.55,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.797881543636322,
+            "agent_1": 0.7789347767829895
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 0.049946390092372894,
+            "agent_1": 0.06279201060533524
+        }
+    },
+    {
+        "epoch": 11,
+        "train_reward": 0.36819999999999997,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.7828876376152039,
+            "agent_1": 0.792158842086792
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 0.05270155519247055,
+            "agent_1": 0.0717133954167366
+        }
+    },
+    {
+        "epoch": 12,
+        "train_reward": 0.6562,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.18819999999999992,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.772450864315033,
+            "agent_1": -0.03116598352789879
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 0.04465516284108162,
+            "agent_1": 0.04941266030073166
+        }
+    },
+    {
+        "epoch": 13,
+        "train_reward": 0,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.7226537466049194,
+            "agent_1": 0.717006504535675
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 0.03794902563095093,
+            "agent_1": 0.042196936905384064
+        }
+    },
+    {
+        "epoch": 14,
+        "train_reward": 0,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.6981385946273804,
+            "agent_1": 0.7171027064323425
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 0.02629755437374115,
+            "agent_1": 0.044868700206279755
+        }
+    },
+    {
+        "epoch": 15,
+        "train_reward": 0,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.7050637006759644,
+            "agent_1": 0.7309811115264893
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 0.041468873620033264,
+            "agent_1": 0.049552757292985916
+        }
+    },
+    {
+        "epoch": 16,
+        "train_reward": 0,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.6548348069190979,
+            "agent_1": 0.6717766523361206
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 0.0286517683416605,
+            "agent_1": 0.02939998358488083
+        }
+    },
+    {
+        "epoch": 17,
+        "train_reward": 0,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.636052131652832,
+            "agent_1": 0.6765665411949158
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 0.024569127708673477,
+            "agent_1": 0.03424672409892082
+        }
+    },
+    {
+        "epoch": 18,
+        "train_reward": 0,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.6186021566390991,
+            "agent_1": 0.6486023664474487
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 0.022678734734654427,
+            "agent_1": 0.026213811710476875
+        }
+    },
+    {
+        "epoch": 19,
+        "train_reward": 0,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.63885098695755,
+            "agent_1": 0.656944990158081
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 0.022070882841944695,
+            "agent_1": 0.02810659073293209
+        }
+    },
+    {
+        "epoch": 20,
+        "train_reward": 0.7929999999999999,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.5628471970558167,
+            "agent_1": 0.5686637163162231
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 0.013120175339281559,
+            "agent_1": 0.012057400308549404
+        }
+    },
+    {
+        "epoch": 21,
+        "train_reward": 0,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.5976394414901733,
+            "agent_1": 0.610846221446991
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 0.016763443127274513,
+            "agent_1": 0.018898583948612213
+        }
+    },
+    {
+        "epoch": 22,
+        "train_reward": 0.2799999999999999,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.5119137763977051,
+            "agent_1": 0.5560330748558044
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 0.009865554980933666,
+            "agent_1": 0.011225579306483269
+        }
+    },
+    {
+        "epoch": 23,
+        "train_reward": 0,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.13780000000000003
+            ],
+            "agent_1": [
+                0.0,
+                0.7929999999999999
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": -0.01410586666315794,
+            "agent_1": 0.45676755905151367
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 0.005710603203624487,
+            "agent_1": 0.014815681613981724
+        }
+    },
+    {
+        "epoch": 24,
+        "train_reward": 0,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.5489349365234375,
+            "agent_1": 0.5367319583892822
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 0.011460071429610252,
+            "agent_1": 0.009334804490208626
+        }
+    },
+    {
+        "epoch": 25,
+        "train_reward": 0,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.5259963870048523,
+            "agent_1": 0.4866262376308441
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 0.008771877735853195,
+            "agent_1": 0.004842082038521767
+        }
+    },
+    {
+        "epoch": 26,
+        "train_reward": 0.8613999999999999,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.5171906352043152,
+            "agent_1": 0.4623616337776184
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 0.008562765084207058,
+            "agent_1": 0.0033224436920136213
+        }
+    },
+    {
+        "epoch": 27,
+        "train_reward": 0,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.47469544410705566,
+            "agent_1": 0.48149484395980835
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 0.003954342566430569,
+            "agent_1": 0.004594711586833
+        }
+    },
+    {
+        "epoch": 28,
+        "train_reward": 0,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.43173834681510925,
+            "agent_1": 0.43364083766937256
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 0.004878703970462084,
+            "agent_1": 0.002655824413523078
+        }
+    },
+    {
+        "epoch": 29,
+        "train_reward": 0.4114,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.3751724362373352,
+            "agent_1": 0.42217257618904114
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 0.001733791665174067,
+            "agent_1": 0.0024480586871504784
+        }
+    },
+    {
+        "epoch": 30,
+        "train_reward": 0,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.40085646510124207,
+            "agent_1": 0.39848971366882324
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 0.002372011775150895,
+            "agent_1": 0.0017354994779452682
+        }
+    },
+    {
+        "epoch": 31,
+        "train_reward": 0,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.36608171463012695,
+            "agent_1": 0.41600996255874634
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 0.0023173813242465258,
+            "agent_1": 0.0022736263927072287
+        }
+    },
+    {
+        "epoch": 32,
+        "train_reward": 0.11439999999999995,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.3457520306110382,
+            "agent_1": 0.3776189088821411
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 0.0009378688409924507,
+            "agent_1": 0.0017333936411887407
+        }
+    },
+    {
+        "epoch": 33,
+        "train_reward": 0,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.32624441385269165,
+            "agent_1": 0.37561655044555664
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 0.00115576246753335,
+            "agent_1": 0.0013979607028886676
+        }
+    },
+    {
+        "epoch": 34,
+        "train_reward": 0,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.34791648387908936,
+            "agent_1": 0.33069032430648804
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 0.0020189275965094566,
+            "agent_1": 0.0007271927897818387
+        }
+    },
+    {
+        "epoch": 35,
+        "train_reward": 0.3124,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.2895214259624481,
+            "agent_1": 0.32214289903640747
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 0.0022045194637030363,
+            "agent_1": 0.0007555169868282974
+        }
+    },
+    {
+        "epoch": 36,
+        "train_reward": 0,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.26489463448524475,
+            "agent_1": 0.3564032018184662
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 0.0006689202855341136,
+            "agent_1": 0.0012849865015596151
+        }
+    },
+    {
+        "epoch": 37,
+        "train_reward": 0.5391999999999999,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.3041650354862213,
+            "agent_1": 0.2761968672275543
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 0.0010555312037467957,
+            "agent_1": 0.0003370343765709549
+        }
+    },
+    {
+        "epoch": 38,
+        "train_reward": 0.685,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.2923237979412079,
+            "agent_1": 0.29561647772789
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 0.0010286364704370499,
+            "agent_1": 0.0006140684708952904
+        }
+    },
+    {
+        "epoch": 39,
+        "train_reward": 0,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.25601765513420105,
+            "agent_1": 0.25652405619621277
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 0.0005721935303881764,
+            "agent_1": 0.000324238499160856
+        }
+    },
+    {
+        "epoch": 40,
+        "train_reward": 0,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.23943516612052917,
+            "agent_1": 0.2382531315088272
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 0.00042178560397587717,
+            "agent_1": 0.0003089331730734557
+        }
+    },
+    {
+        "epoch": 41,
+        "train_reward": 0.4726,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.2523804306983948,
+            "agent_1": 0.23254050314426422
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 0.0006291880854405463,
+            "agent_1": 0.0002535996900405735
+        }
+    },
+    {
+        "epoch": 42,
+        "train_reward": 0,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.24651019275188446,
+            "agent_1": 0.23256327211856842
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 0.0003191071446053684,
+            "agent_1": 0.00027329756994731724
+        }
+    },
+    {
+        "epoch": 43,
+        "train_reward": 0.28359999999999996,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.2355908304452896,
+            "agent_1": 0.2156004160642624
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 0.0005432026227936149,
+            "agent_1": 0.0002762059448286891
+        }
+    },
+    {
+        "epoch": 44,
+        "train_reward": 0,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.22227387130260468,
+            "agent_1": 0.21595151722431183
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 0.0005000631790608168,
+            "agent_1": 0.00022984741372056305
+        }
+    },
+    {
+        "epoch": 45,
+        "train_reward": 0,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.1954575777053833,
+            "agent_1": 0.23471929132938385
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 0.00026175554376095533,
+            "agent_1": 0.0003738736268132925
+        }
+    },
+    {
+        "epoch": 46,
+        "train_reward": 0,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.17605794966220856,
+            "agent_1": 0.1913628876209259
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 0.00014588529302272946,
+            "agent_1": 0.00018368326709605753
+        }
+    },
+    {
+        "epoch": 47,
+        "train_reward": 0,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.13945020735263824,
+            "agent_1": 0.18237295746803284
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 5.76669153815601e-05,
+            "agent_1": 0.0001597994996700436
+        }
+    },
+    {
+        "epoch": 48,
+        "train_reward": 0,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.16832630336284637,
+            "agent_1": 0.19959215819835663
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 0.0001925931719597429,
+            "agent_1": 0.00026679690927267075
+        }
+    },
+    {
+        "epoch": 49,
+        "train_reward": 0,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.16442792117595673,
+            "agent_1": 0.1339210420846939
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 0.00014290734543465078,
+            "agent_1": 4.1382285417057574e-05
+        }
+    },
+    {
+        "epoch": 50,
+        "train_reward": 0.8722,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.17802022397518158,
+            "agent_1": 0.1665852665901184
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 0.0003459721920080483,
+            "agent_1": 0.00015667804109398276
+        }
+    },
+    {
+        "epoch": 51,
+        "train_reward": 0,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.12714096903800964,
+            "agent_1": 0.13421432673931122
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 0.0001014189183479175,
+            "agent_1": 7.145205017877743e-05
+        }
+    },
+    {
+        "epoch": 52,
+        "train_reward": 0,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.12791594862937927,
+            "agent_1": 0.13611643016338348
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 6.413402297766879e-05,
+            "agent_1": 8.545469609089196e-05
+        }
+    },
+    {
+        "epoch": 53,
+        "train_reward": 0,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.1065283864736557,
+            "agent_1": 0.12762156128883362
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 3.0115621484583244e-05,
+            "agent_1": 7.051078864606097e-05
+        }
+    },
+    {
+        "epoch": 54,
+        "train_reward": 0.35019999999999996,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.10565575212240219,
+            "agent_1": 0.12859778106212616
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 3.855499016935937e-05,
+            "agent_1": 9.205722017213702e-05
+        }
+    },
+    {
+        "epoch": 55,
+        "train_reward": 0,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.11866028606891632,
+            "agent_1": 0.10623042285442352
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 5.801485895062797e-05,
+            "agent_1": 4.268327757017687e-05
+        }
+    },
+    {
+        "epoch": 56,
+        "train_reward": 0.25660000000000005,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.1348654329776764,
+            "agent_1": 0.09399215877056122
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 0.00023813045118004084,
+            "agent_1": 2.0728106392198242e-05
+        }
+    },
+    {
+        "epoch": 57,
+        "train_reward": 0,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.09675724804401398,
+            "agent_1": 0.1243973821401596
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 3.934518827009015e-05,
+            "agent_1": 0.00010434359865030274
+        }
+    },
+    {
+        "epoch": 58,
+        "train_reward": 0.6274,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.10574351251125336,
+            "agent_1": 0.09920218586921692
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 8.660394087200984e-05,
+            "agent_1": 5.3445408411789685e-05
+        }
+    },
+    {
+        "epoch": 59,
+        "train_reward": 0.11439999999999995,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.10698683559894562,
+            "agent_1": 0.09511902183294296
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 0.00010516844486119226,
+            "agent_1": 4.6982793719507754e-05
+        }
+    },
+    {
+        "epoch": 60,
+        "train_reward": 0.39339999999999997,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.11804203689098358,
+            "agent_1": 0.09418180584907532
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 0.00010307748016202822,
+            "agent_1": 5.04247254866641e-05
+        }
+    },
+    {
+        "epoch": 61,
+        "train_reward": 0.34299999999999997,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.09696231037378311,
+            "agent_1": 0.08083482086658478
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 5.2049130317755044e-05,
+            "agent_1": 3.162244684062898e-05
+        }
+    },
+    {
+        "epoch": 62,
+        "train_reward": 0,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.03487919643521309,
+            "agent_1": 0.08662405610084534
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 1.229601531704816e-09,
+            "agent_1": 4.90474485559389e-05
+        }
+    },
+    {
+        "epoch": 63,
+        "train_reward": 0.838,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.08253101259469986,
+            "agent_1": 0.10299176722764969
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 7.249482587212697e-05,
+            "agent_1": 0.00011062281555496156
+        }
+    },
+    {
+        "epoch": 64,
+        "train_reward": 0,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.08028321713209152,
+            "agent_1": 0.06483376771211624
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 5.181727829040028e-05,
+            "agent_1": 1.4858685972285457e-05
+        }
+    },
+    {
+        "epoch": 65,
+        "train_reward": 0,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.06493712216615677,
+            "agent_1": 0.061148710548877716
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 4.293601250537904e-06,
+            "agent_1": 1.3291304640006274e-05
+        }
+    },
+    {
+        "epoch": 66,
+        "train_reward": 0,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.07519424706697464,
+            "agent_1": 0.08829723298549652
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 9.141358896158636e-05,
+            "agent_1": 8.432114555034786e-05
+        }
+    },
+    {
+        "epoch": 67,
+        "train_reward": 0,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.0665656179189682,
+            "agent_1": 0.06416720151901245
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 3.3265136153204367e-05,
+            "agent_1": 2.3028282157611102e-05
+        }
+    },
+    {
+        "epoch": 68,
+        "train_reward": 0.5734,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.05343899875879288,
+            "agent_1": 0.0591101348400116
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 1.835162765928544e-05,
+            "agent_1": 2.021328327828087e-05
+        }
+    },
+    {
+        "epoch": 69,
+        "train_reward": 0.3862,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.08084914088249207,
+            "agent_1": 0.0794275552034378
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 0.00013356095587369055,
+            "agent_1": 8.017200889298692e-05
+        }
+    },
+    {
+        "epoch": 70,
+        "train_reward": 0.7984,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.0641663670539856,
+            "agent_1": 0.05125024542212486
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 1.6651503756293096e-05,
+            "agent_1": 9.722237336973194e-06
+        }
+    },
+    {
+        "epoch": 71,
+        "train_reward": 0,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.05500159040093422,
+            "agent_1": 0.06622620671987534
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 2.6548159439698793e-05,
+            "agent_1": 4.520799484453164e-05
+        }
+    },
+    {
+        "epoch": 72,
+        "train_reward": 0.8109999999999999,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.03782028332352638,
+            "agent_1": 0.06430172920227051
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 5.222905201662797e-07,
+            "agent_1": 4.510650978772901e-05
+        }
+    },
+    {
+        "epoch": 73,
+        "train_reward": 0.42579999999999996,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.04801001027226448,
+            "agent_1": 0.056522075086832047
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 1.4658188774774317e-05,
+            "agent_1": 3.035053305211477e-05
+        }
+    },
+    {
+        "epoch": 74,
+        "train_reward": 0,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.04063697159290314,
+            "agent_1": 0.03182273358106613
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 4.632462605513865e-06,
+            "agent_1": 7.872313858570124e-07
+        }
+    },
+    {
+        "epoch": 75,
+        "train_reward": 0.22060000000000002,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.029703203588724136,
+            "agent_1": 0.05643964558839798
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 4.488676950131776e-07,
+            "agent_1": 3.995181032223627e-05
+        }
+    },
+    {
+        "epoch": 76,
+        "train_reward": 0,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.046649180352687836,
+            "agent_1": 0.036859601736068726
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 1.9967877960880287e-05,
+            "agent_1": 4.3913732952205464e-06
+        }
+    },
+    {
+        "epoch": 77,
+        "train_reward": 0.37,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.05299228057265282,
+            "agent_1": 0.05354010686278343
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 4.8198842705460265e-05,
+            "agent_1": 3.401626236154698e-05
+        }
+    },
+    {
+        "epoch": 78,
+        "train_reward": 0.3448,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.037282317876815796,
+            "agent_1": 0.05237512290477753
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 1.05889885162469e-05,
+            "agent_1": 3.7094083381816745e-05
+        }
+    },
+    {
+        "epoch": 79,
+        "train_reward": 0.8182,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.04897897690534592,
+            "agent_1": 0.027684025466442108
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 2.7255249733570963e-05,
+            "agent_1": 2.2287424599198857e-06
+        }
+    },
+    {
+        "epoch": 80,
+        "train_reward": 0,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.02882182039320469,
+            "agent_1": 0.04528290033340454
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 1.8660508658285835e-06,
+            "agent_1": 2.3221307856147178e-05
+        }
+    },
+    {
+        "epoch": 81,
+        "train_reward": 0.44920000000000004,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.025743167847394943,
+            "agent_1": 0.04218296334147453
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 5.982914785818139e-08,
+            "agent_1": 1.916808651003521e-05
+        }
+    },
+    {
+        "epoch": 82,
+        "train_reward": 0.44920000000000004,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.03247244283556938,
+            "agent_1": 0.04022432863712311
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 6.3623460846429225e-06,
+            "agent_1": 1.7080061297747307e-05
+        }
+    },
+    {
+        "epoch": 83,
+        "train_reward": 0.9046,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.015945635735988617,
+            "agent_1": 0.04161231964826584
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 3.1532876310080837e-10,
+            "agent_1": 2.0698991647805087e-05
+        }
+    },
+    {
+        "epoch": 84,
+        "train_reward": 0.8254,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.03917555883526802,
+            "agent_1": 0.035319842398166656
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 2.04056705115363e-05,
+            "agent_1": 1.2472884918679483e-05
+        }
+    },
+    {
+        "epoch": 85,
+        "train_reward": 0,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.037825800478458405,
+            "agent_1": 0.04241301864385605
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 2.096853313560132e-05,
+            "agent_1": 2.8569935238920152e-05
+        }
+    },
+    {
+        "epoch": 86,
+        "train_reward": 0,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.058391742408275604,
+            "agent_1": 0.029745163396000862
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 6.799134280299768e-05,
+            "agent_1": 4.479333256313112e-06
+        }
+    },
+    {
+        "epoch": 87,
+        "train_reward": 0.352,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.027762070298194885,
+            "agent_1": 0.029650621116161346
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 9.97859660856193e-06,
+            "agent_1": 7.595004717586562e-06
+        }
+    },
+    {
+        "epoch": 88,
+        "train_reward": 0,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.02654239721596241,
+            "agent_1": 0.026647618040442467
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 3.7325858102121856e-06,
+            "agent_1": 4.21094637204078e-06
+        }
+    },
+    {
+        "epoch": 89,
+        "train_reward": 0.7642,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.02879662998020649,
+            "agent_1": 0.020219601690769196
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 1.2725486158160493e-05,
+            "agent_1": 1.4669154779767268e-06
+        }
+    },
+    {
+        "epoch": 90,
+        "train_reward": 0,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.027360280975699425,
+            "agent_1": 0.02843404747545719
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 4.539439032669179e-06,
+            "agent_1": 8.82808308233507e-06
+        }
+    },
+    {
+        "epoch": 91,
+        "train_reward": 0,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.02508920058608055,
+            "agent_1": 0.0263933464884758
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 4.792340405401774e-06,
+            "agent_1": 3.961548372899415e-06
+        }
+    },
+    {
+        "epoch": 92,
+        "train_reward": 0.9308,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.022924333810806274,
+            "agent_1": 0.026037687435746193
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 3.0632130801677704e-05,
+            "agent_1": 6.004208898957586e-06
+        }
+    },
+    {
+        "epoch": 93,
+        "train_reward": 0.34840000000000004,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.024325916543602943,
+            "agent_1": 0.013323585502803326
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 1.7489808215032099e-06,
+            "agent_1": 4.3114917502862227e-07
+        }
+    },
+    {
+        "epoch": 94,
+        "train_reward": 0,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.017170600593090057,
+            "agent_1": 0.041950028389692307
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 2.6445551526421696e-08,
+            "agent_1": 5.289954788167961e-05
+        }
+    },
+    {
+        "epoch": 95,
+        "train_reward": 0,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.024097774177789688,
+            "agent_1": 0.03218632563948631
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 4.0234722291643266e-06,
+            "agent_1": 3.158463005092926e-05
+        }
+    },
+    {
+        "epoch": 96,
+        "train_reward": 0,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.028586216270923615,
+            "agent_1": 0.03451070934534073
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 1.4208638276613783e-05,
+            "agent_1": 3.090652171522379e-05
+        }
+    },
+    {
+        "epoch": 97,
+        "train_reward": 0,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.030851133167743683,
+            "agent_1": 0.026611080393195152
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 2.3096130462363362e-05,
+            "agent_1": 9.375004992762115e-06
+        }
+    },
+    {
+        "epoch": 98,
+        "train_reward": 0,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.013401973992586136,
+            "agent_1": 0.024337345734238625
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 3.0722797639270993e-09,
+            "agent_1": 5.460095053422265e-06
+        }
+    },
+    {
+        "epoch": 99,
+        "train_reward": 0.7263999999999999,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.01977037824690342,
+            "agent_1": 0.027714941650629044
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 3.4177392080891877e-06,
+            "agent_1": 1.143273948400747e-05
+        }
+    },
+    {
+        "epoch": 100,
+        "train_reward": 0,
+        "fantasy_rewards": {
+            "agent_0": [
+                0.0,
+                0.0
+            ],
+            "agent_1": [
+                0.0,
+                0.0
+            ]
+        },
+        "fantasy_lstm_loss": {
+            "agent_0": 0.011273008771240711,
+            "agent_1": 0.03660508990287781
+        },
+        "fantasy_conf_loss": {
+            "agent_0": 6.178929590205939e-10,
+            "agent_1": 4.272290243534371e-05
+        }
+    }
+]
